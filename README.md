@@ -3,7 +3,7 @@ All of the programs in this repository were homework problems from class.
 
 ### Resource used:
 Dr. Jason Losh's notes and programs  
-The University of Texas at Arlington
+Director, Computer Engineering Undergraduate Program, The University of Texas at Arlington  
   
 ### File descriptions
 - hw2_prob5.c - C program that calls the assembly functions in hw2_prob.c
